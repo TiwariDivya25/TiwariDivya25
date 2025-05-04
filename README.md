@@ -3,7 +3,7 @@
 <h1>Hi, I'm Divya!</h1>
 <p>A passionate fullstack developer</p>
 
-🎯 Currently learning **Fullstack Web Dev: tailwind CSS, React, Django**<br>💡 Building a **QR Code-Based Restaurant SaaS** (like Menu Tiger 🍽️)<br>🧠 Exploring **Machine Learning** and **Smart Building Integrations**<br>📚 Preparing for **GSoC 2026** and **MLH Fellowship**<br>🌱 Passionate about **open source** and real-world problem solving
+🎯 Currently learning **Fullstack Web Dev: tailwind CSS, React, Django**<br>💡 Building a **QR Code-Based Restaurant SaaS**<br>🧠 Exploring **Machine Learning** and **Smart Building Integrations**<br>📚 Preparing for **GSoC 2026** and **MLH Fellowship**<br>🌱 Passionate about **open source** and real-world problem solving
 
 
 ## 🌐 Socials:
