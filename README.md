@@ -1,3 +1,5 @@
+![Technology LinkedIn Banner in Navy White Simple Style](https://github.com/user-attachments/assets/6a130d2b-03f2-47a3-b579-253ee6e39614)
+
 <h1>Hi, I'm Divya!</h1>
 <p>A passionate fullstack developer</p>
 
