@@ -1,7 +1,9 @@
 ![Technology LinkedIn Banner in Navy White Simple Style](https://github.com/user-attachments/assets/6a130d2b-03f2-47a3-b579-253ee6e39614)
 
-<h1>Hi, I'm Divya!</h1>
-<p>A passionate fullstack developer</p>
+<h1 align="center">Hi, I'm Divya!</h1>
+<h3 align="center">A passionate student and fullstack developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwaridivya25&label=Profile%20views&color=0e75b6&style=flat" alt="tiwaridivya25" /> </p>
 
 🎯 Currently learning **Fullstack Web Dev: tailwind CSS, React, Django**<br>💡 Building a **QR Code-Based Restaurant SaaS**<br>🧠 Exploring **Machine Learning** and **Smart Building Integrations**<br>📚 Preparing for **GSoC 2026** and **MLH Fellowship**<br>🌱 Passionate about **open source** and real-world problem solving
 
@@ -17,7 +19,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TiwariDivya25&show_icons=true&locale=en" alt="TiwariDivya25" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TiwariDivya25&" alt="TiwariDivya25" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwaridivya25&show_icons=true&locale=en&layout=compact" alt="tiwaridivya25" /></p>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=TiwariDivya25&icon=0&color=0)](https://visitcount.itsvg.in)
