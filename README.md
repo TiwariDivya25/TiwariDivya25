@@ -1,7 +1,7 @@
 ![Technology LinkedIn Banner in Navy White Simple Style](https://github.com/user-attachments/assets/6a130d2b-03f2-47a3-b579-253ee6e39614)
 
 <h1 align="center">Hi, I'm Divya!</h1>
-<h3 align="center">A passionate student and fullstack developer</h3>
+<h3 align="center">A student and an aspiring fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwaridivya25&label=Profile%20views&color=0e75b6&style=flat" alt="tiwaridivya25" /> </p>
 
