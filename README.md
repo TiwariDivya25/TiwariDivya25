@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwaridivya25&label=Profile%20views&color=0e75b6&style=flat" alt="tiwaridivya25" /> </p>
 
-🎯 Currently learning **Fullstack Web Dev: tailwind CSS, React, Django**<br>💡 Building a **QR Code-Based Restaurant SaaS**<br>🧠 Exploring **Machine Learning** and **Smart Building Integrations**<br>📚 Preparing for **GSoC 2026** and **MLH Fellowship**<br>🌱 Passionate about **open source** and real-world problem solving
+🎯 Currently learning **Fullstack Web Dev: tailwind CSS, React, Spring**<br>💡 Building a **QR Code-Based Restaurant SaaS**<br>🧠 Exploring **Machine Learning** and **Smart Building Integrations**<br>📚 Preparing for **GSoC 2026** and **MLH Fellowship**<br>🌱 Passionate about **open source** and real-world problem solving
 
 
 ## 🌐 Socials:
