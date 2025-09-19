@@ -2,8 +2,8 @@ name: GitHub Contributions Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:     # Allows manual trigger anytime
 
 jobs:
   snake:
@@ -12,19 +12,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # important to allow push
+          persist-credentials: true  # ensures token is used to push
           fetch-depth: 0             # fetch full history
 
       - name: Run snake animation
         uses: github-contributions-snake-animation/gh-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          color: "00FFAA"
-          theme: "dark"
-          speed: 150
-          head: "circle"
+          color: "00FFAA"      # Bright green snake
+          theme: "dark"        # Dark theme
+          speed: 150           # Lower = faster animation
+          head: "circle"       # Shape of snake head
 
-      - name: Commit & push if changes
+      - name: Commit & push changes
         run: |
           git config --global user.name "TiwariDivya25"
           git config --global user.email "divyat.social@gmail.com"
