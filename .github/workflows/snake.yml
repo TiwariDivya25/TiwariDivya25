@@ -3,19 +3,20 @@ name: GitHub Contributions Snake
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:   # Allows manual trigger
+  workflow_dispatch:     # Allows manual trigger anytime
 
 jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Run snake animation
         uses: github-contributions-snake-animation/gh-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Optional customization:
-          # color: "0f0"          # Snake color
-          # theme: "default"      # Theme: default, dark, etc.
-          # speed: 200             # Animation speed (lower = faster)
+          color: "00FFAA"      # Bright green snake color
+          theme: "dark"        # Dark theme for high contrast
+          speed: 150           # Lower = faster animation
+          head: "circle"       # Shape of snake head
