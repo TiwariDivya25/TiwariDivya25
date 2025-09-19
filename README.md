@@ -24,4 +24,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwaridivya25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
 </p>
 
+![Snake animation](https://github.com/TiwariDivya25/TiwariDivya25/raw/main/snake.svg)
 
