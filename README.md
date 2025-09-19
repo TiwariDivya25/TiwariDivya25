@@ -1,17 +1,17 @@
-# Hi, I'm Divya Tiwari 👋
-
 ![Technology LinkedIn Banner in Navy White Simple Style](https://github.com/user-attachments/assets/6a130d2b-03f2-47a3-b579-253ee6e39614)
 
-<h1 align="center">Hi, I'm Divya!</h1>
-<h3 align="center">A student and an aspiring fullstack developer</h3>
+<h1 align="center">✨ Hey there, I'm Divya! ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D5FFB&center=true&vCenter=true&width=600&lines=AIML+Student+;Fullstack+Developer+;Open+Source+Contributor+" alt="Typing SVG" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiwariDivya25&label=Profile%20views&color=0e75b6&style=flat" alt="TiwariDivya25" /> </p>
 
-🎯 Currently learning **Fullstack Web Dev: Tailwind CSS, React, Spring**  
-💡 Building a **QR Code-Based Restaurant SaaS**  
-🧠 Exploring **Machine Learning** and **Smart Building Integrations**  
-📚 Preparing for **GSoC 2026** and **MLH Fellowship**  
-🌱 Passionate about **open source** and real-world problem solving
+💻 **Currently Learning**: Fullstack Web Dev (Tailwind CSS, React, Spring) + AIML  
+⚡ **Building**: QR Code-Based Restaurant Ordering SaaS  
+🧠 **Exploring**: Machine Learning, Deep Learning & Smart Tech Integrations  
+🎯 **Goals**: Crack **GSoC 2026** + **MLH Fellowship**  
+🌱 **Passionate About**: Open Source, SaaS Development, and AI for Real-World Problems  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiwari-divya-in/) 
@@ -44,5 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwaridivya25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
 </p>
 
-## 🐍 Snake Animation
-![Snake animation](https://github.com/TiwariDivya25/TiwariDivya25/raw/main/snake.svg)
+## 🏆 GitHub Trophies:  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tiwaridivya25&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
