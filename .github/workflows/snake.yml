@@ -1,30 +1,42 @@
-name: GitHub Contributions Snake
+name: GitHub Profile Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:     # Allows manual trigger anytime
+    - cron: '0 0 * * *'   # daily at midnight
+  workflow_dispatch:
 
 jobs:
-  snake:
+  build-snake:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # ensures token is used to push
-          fetch-depth: 0             # fetch full history
+          persist-credentials: true
+          fetch-depth: 0
 
-      - name: Run snake animation
-        uses: github-contributions-snake-animation/gh-action@main
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          color: "00FFAA"      # Bright green snake
-          theme: "dark"        # Dark theme
-          speed: 150           # Lower = faster animation
-          head: "circle"       # Shape of snake head
+          python-version: '3.x'
 
-      - name: Commit & push changes
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Generate snake SVG
+        run: |
+          python3 <<EOF
+          import requests
+          from pathlib import Path
+          # URL of a working snake generator API
+          url = "https://raw.githubusercontent.com/Ileriayo/commit-snake/main/snake.py"
+          code = requests.get(url).text
+          with open("snake.py", "w") as f: f.write(code)
+          exec(open("snake.py").read())
+          EOF
+
+      - name: Commit & Push
         run: |
           git config --global user.name "TiwariDivya25"
           git config --global user.email "divyat.social@gmail.com"
